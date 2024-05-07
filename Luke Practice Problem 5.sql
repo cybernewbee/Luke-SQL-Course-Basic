@@ -1,4 +1,4 @@
-DB:https://lukeb.co/sql_jobs_db
+-- DB:https://lukeb.co/sql_jobs_db
 -- prompt: find the average salary and number of job postings for each skill --
 -- hint: combine job_postings, skill_dim, and skill_job_dim
 SELECT 
